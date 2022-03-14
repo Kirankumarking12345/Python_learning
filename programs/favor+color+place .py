@@ -1,0 +1,6 @@
+color=input("enter ur favorate color")
+cel=input("enter ur favorate celebratie")
+place=input("enter ur favoratie place ")
+print("your favoratie color is :"+ color)
+print("your favoratie celebratie is :" + cel)
+print("your favouratie place is :" + place)
